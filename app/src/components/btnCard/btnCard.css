@@ -1,0 +1,23 @@
+.btn_class{
+    font-family: "InterBold";
+    font-size: 18px;
+    width: 100%;
+    height: 62px;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    margin-top: 12px;
+    cursor: pointer;
+    background-color: #FC5C63;
+}
+  
+  .btn_class:hover{
+    background-color: #FC5057;
+  }
+
+  .blackButton{
+    background-color: #050505;
+  }
+  .blackButton:hover{
+    background-color: #1F1F1F;
+  }

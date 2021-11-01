@@ -1,0 +1,43 @@
+.card-container {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+
+.updateCard{
+  width: 302px;
+  height: 348px;
+  padding: 24px;
+  margin-bottom: 32px;
+  background-color: #0C806B;
+  border: 1px solid #D3D3D3;
+  border-radius: 8px;
+}
+
+.title-color {
+  color: #050505;
+}
+
+.title-update-color {
+  color: white;
+}
+
+.text-color {
+  color: #8C8C8C;
+}
+
+.text-update-color{
+  color: white;
+}
+
+
+.blackButton{
+  background-color: #050505;
+}
+
+.blackButton:hover{
+  background-color: #1F1F1F;
+}
+
+
+  
